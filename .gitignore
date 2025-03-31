@@ -1,12 +1,2 @@
-ES2008a.Mix-Lapel.wav
-transcription_result.txt
-audio.rttm
-merged_transcript.json
-diarization.rttm
-meeting_audio.wav
-meeting_minutes.txt
-Pyannote_plays_and_Whisper_rhymes_v_1_0.ipynb
-segmented_meeting_audio.vtt
-segmented_meeting_audio.wav
-trimmed_meeting_audio.wav
 /results
+Pyannote_plays_and_Whisper_rhymes_v_1_0.ipynb
